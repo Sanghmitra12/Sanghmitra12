@@ -19,10 +19,11 @@ You can click the Preview link to take a look at your changes.
     <!--<img width=390 src="https://streak-stats.demolab.com/?user=sanghmitra12&count_private=true&theme=react&border_radius=10" alt="streak stats"/>  --> 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanghmitra12&theme=dark&hide_border=true" height="100%"/> -->
 <br>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=sanghmitra12&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=sanghmitra12&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> 
 <br>
    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanghmitra12&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt=" top langs" />
  </div>
  <br/>
 
 <br/><br/>
+
