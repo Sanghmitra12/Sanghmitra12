@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
   <h2 align="center">⚡ Current Stats ⚡</h2>
  <div align=center>
-     <img width=390 src="https://streak-stats.demolab.com/?user=sanghmitra12&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+   <!--  <img width=390 src="https://streak-stats.demolab.com/?user=sanghmitra12&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
 
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=sanghmitra12&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
