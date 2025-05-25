@@ -37,9 +37,9 @@ You can click the Preview link to take a look at your changes.
   
   <br>
    <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanghmitra12&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt=" top langs" />
-   <br>
-  <img  align= "right" align= "down" width="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
   </br>
+  <img  align= "right" align= " " src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
 
   <br>
    <img width=390 align="left" src="https://streak-stats.demolab.com/?user=sanghmitra12&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
