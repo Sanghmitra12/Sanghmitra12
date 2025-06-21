@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
   <img  align= "right" align= " " src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
 
   <br>
-   <img width=390 align="left" src="https://streak-stats.demolab.com/?user=sanghmitra12&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
+      <img width=390 align="left" src="https://streak-stats.demolab.com/?user=sanghmitra12&count_private=true&theme=react&border_radius=10" alt="streakstats"/> 
 <br/>
 
 </div>
