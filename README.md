@@ -1,5 +1,3 @@
-![Header](./your-header-image-github-header-image.png)
-
 
  <!--
 - 👋 Hi, I’m @Sanghmitra12
