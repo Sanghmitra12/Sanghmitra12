@@ -1,3 +1,4 @@
+![Header](https://raw.githubusercontent.com/sanghmitra12/sanghmitra12/main/github-header-image.png)
 
  <!--
 - 👋 Hi, I’m @Sanghmitra12
