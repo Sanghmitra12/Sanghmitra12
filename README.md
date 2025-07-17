@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
          width="45" /> , I'm  Sanghmitra</h1>
 
   <br>     
-         <h4 align="center">B.Tech CSE '27 | Software Engineer | Web Developer | Cybersecurity & Full Stack Enthusiast | Open Source Contributor</h4>
+         <h4 align="center">B.Tech CSE '27 | Aspiring Software Engineer | Aspiring Web Developer | Cybersecurity & Full Stack Enthusiast | Open Source Contributor</h4>
          
  <br>
          <p align="center">
