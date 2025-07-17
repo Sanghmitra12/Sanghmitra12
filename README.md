@@ -1,5 +1,3 @@
-![Header](https://raw.githubusercontent.com/sanghmitra12/sanghmitra12/main/github-header-image.png)
-
  <!--
 - 👋 Hi, I’m @Sanghmitra12
 - 👀 I’m interested in ... 
@@ -13,14 +11,96 @@
 Sanghmitra12/Sanghmitra12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!-- GitHub Profile README.md - Sanghmitra12 -->
+![Header](https://raw.githubusercontent.com/sanghmitra12/sanghmitra12/main/github-header-image.png)
+
 <!--<h1 align="center">Hi <img src="https://raw.githubusercontent.com/sanghmitra12/sanghmitra12/main/wave.gif height="10vh" alt="👋""> , I'm  Sanghmitra</h1>-->
- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/sanghmitra12/sanghmitra12/main/wave.gif" 
+
+ <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/sanghmitra12/sanghmitra12/main/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> , I'm  Sanghmitra</h1>
-<br>
-<img align="right" width="400" src="https://camo.githubusercontent.com/c87ad6a19c7544e9b15b362bb5db638da7bb26f1d4442ed5bdf7c9e01640b751/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3036663231613136313932313931392e363363643738383764306137302e676966" alt="Coding" />
 
+  <br>     
+         <h4 align="center">B.Tech CSE '27 | Software Engineer | Web Developer | Cybersecurity & Full Stack Enthusiast | Open Source Contributor</h4>
+         
+ <br>
+         <p align="center">
+<!--  <a href="mailto:Sanghmitra1207@gmail.com">📧 Email</a> • -->
+  <a href="https://sanghmitra12.github.io/portfolio-website/">🌐 Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/sanghmitra-75b9a82a7">💼 LinkedIn</a> • 
+  <a href="https://github.com/Sanghmitra12">🐱 GitHub</a> • 
+  <a href="https://learn.microsoft.com/en-us/users/sanghmitra-3744/">📘 Microsoft Learn</a> • 
+  <a href="https://www.cloudskillsboost.google/public_profiles/d69d1102-51b9-4995-a3be-01ab74ae3e82">☁️ Google Cloud</a>
+</p>
+
+---
+### 🚀 About Me
+
+- 🎓 Pre-final year B.Tech Computer Science student @ **Gautam Buddha University** (Batch 2023–2027)
+- 💻 Aspiring **Software Engineer**, **Web Developer**, and **Full Stack Developer**
+- 🔐 Passionate about **Cybersecurity**, **Cloud Technologies**, and **Scalable Systems**
+- 🛠️ Hands-on with building real-world **web applications**, **RESTful APIs**, and **secure chatbots**
+- 👩‍💼 Open to internship, freelance, and open-source collaboration opportunities
+
+---
+
+### 🧰 Tech Stack
+
+**Languages**  
+`C++` `Python` `C` `Java` `JavaScript` `HTML5` `CSS3`
+
+**Web & Frameworks**  
+`ASP.NET MVC` `Bootstrap` `Flask` `Razor` `Jinja2`
+
+**Database & APIs**  
+`MySQL` `SQL Server` `REST APIs` `Postman`
+
+**Cloud & DevOps**  
+`Microsoft Azure` `Google Cloud Platform` `AWS` `GitHub Actions`
+
+**Tools**  
+`Git` `GitHub` `VS Code` `Visual Studio` `Jupyter` `Wireshark` `Nginx`
+
+**Other**  
+`DSA in C++` `MVC Architecture` `Responsive UI` `Secure System Design`
+
+---
+
+### 💼 Internships & Experience
+
+**🔷 GAIL (India) Ltd.** – *Software Engineer Intern*  
+*June 2025 – July 2025*  
+Built a full-stack LMS system using ASP.NET MVC, Razor Views, SQL Server & Bootstrap.
+
+**🔷 GBU** – *Frontend Developer Intern*  
+*Dec 2024 – Feb 2025*  
+Enhanced internal dashboards with optimized HTML/CSS/JS – reduced load time by 30%.
+
+**🔷 CDAC – CyberGyan Program**  
+*Dec 2024 – Feb 2025*  
+Hands-on Nginx reverse proxy setup & cyber labs with real-world simulation exercises.
+
+**🔷 AICTE + IBM ML Internship**  
+Built threat detection ML models & a secure chatbot with steganography & fast response logic.
+
+---
+### 🏆 Certifications
+
+- Microsoft Certified: Security, Compliance & Identity Fundamentals  
+- Postman API Fundamentals Student Expert  
+- IBM SkillsBuild: Cybersecurity & ML  
+- CDAC CyberGyan Program  
+- Google Cloud Skills Boost Badges  
+- Ethical Hacking (Udemy), OSINT, Generative AI, iOS Dev (GFG), and more
+
+📜 [**Credly Badges**](https://www.credly.com/users/sanghmitra.) | [**HackerRank**](https://www.hackerrank.com/certificates/d39db296ead6)
+
+---
+<br>
+
+<img align="right" width="400" src="https://camo.githubusercontent.com/c87ad6a19c7544e9b15b362bb5db638da7bb26f1d4442ed5bdf7c9e01640b751/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3036663231613136313932313931392e363363643738383764306137302e676966" alt="Coding" />
 
   <h2 align="center">⚡ Current Stats ⚡</h2>
   
@@ -45,7 +125,7 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
-<!--### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sanghmitra12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!---
@@ -57,3 +137,24 @@ You can click the Preview link to take a look at your changes.
 [![](https://visitcount.itsvg.in/api?id=sanghmitra12&icon=3&color=3)](https://visitcount.itsvg.in)-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanghmitra12&label=Profile%20views&color=0e75b6&style=flat" alt="sanghmitra12" /> </p>
+
+<!--
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanghmitra12&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanghmitra12&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanghmitra12&layout=compact&theme=tokyonight" width="45%" />
+</p>-->
+
+---
+
+### 📬 Let's Connect
+<!--
+- 📧 Email: [Sanghmitra1207@gmail.com](mailto:Sanghmitra1207@gmail.com)
+- 📱 Phone: (+91) 7906453576  -->
+- 🌐 Portfolio: [sanghmitra12.github.io/portfolio-website](https://sanghmitra12.github.io/portfolio-website)
+
+---
+
+✨ _Building secure, modern apps that solve real-world problems. Let’s connect and collaborate!_
