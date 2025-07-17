@@ -102,7 +102,7 @@ Built threat detection ML models & a secure chatbot with steganography & fast re
 
 <div align="center">
   <img width="415" src="https://github-readme-stats.vercel.app/api?username=sanghmitra12&show_icons=true&theme=react&rank_icon=github&border_radius=15" alt="readme stats" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanghmitra12&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanghmitra12&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <br><br>
  
   <img  align= "right" align= " " src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
@@ -115,7 +115,7 @@ Built threat detection ML models & a secure chatbot with steganography & fast re
 ### 🔝 Top Contributed Repo
 
 
-<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350" alt="Coding" />
+<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="Coding" />
 
 
 ![](https://github-contributor-stats.vercel.app/api?username=Sanghmitra12&limit=5&theme=dark&combine_all_yearly_contributions=true)
