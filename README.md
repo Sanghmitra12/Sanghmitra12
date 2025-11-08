@@ -8,7 +8,7 @@
 <!-- Intro -->
 <h1 align="center">
   Hi there <img src="https://raw.githubusercontent.com/sanghmitra12/sanghmitra12/main/wave.gif" alt="Waving hand animated gif" height="45" width="45" />
-  I'm Sanghmitra
+  I'm Sanghmitra !
 </h1>
 
 <h4 align="center">
