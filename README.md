@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://sanghmitra12.github.io/portfolio-website/">🌐 Portfolio</a> • 
   <a href="https://www.linkedin.com/in/sanghmitra-75b9a82a7">💼 LinkedIn</a> • 
-  <a href="https://github.com/Sanghmitra12">🐱 GitHub</a> • 
+  <a href="https://leetcode.com/u/sanghmitra12/">👩🏻‍💻 LeetCode</a> • 
   <a href="https://learn.microsoft.com/en-us/users/sanghmitra-3744/">📘 Microsoft Learn</a> • 
   <a href="https://www.cloudskillsboost.google/public_profiles/d69d1102-51b9-4995-a3be-01ab74ae3e82">☁️ Google Cloud</a>
 </p>
