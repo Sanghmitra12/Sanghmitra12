@@ -1,4 +1,4 @@
-<!-- GitHub Profile README.md - Sanghmitra12 -->
+ <!-- GitHub Profile README.md - Sanghmitra12 -->
 
 <!-- Header Image -->
 <p align="center">
