@@ -50,27 +50,25 @@
 
 
 ### 🧰 Tech Stack
-
-
-<img align="right"  width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
-
-<img align="right" width="400" src="https://camo.githubusercontent.com/c87ad6a19c7544e9b15b362bb5db638da7bb26f1d4442ed5bdf7c9e01640b751/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3036663231613136313932313931392e363363643738383764306137302e676966" alt="Coding" /> 
-
-
-  
-
-
 **Languages:**  
 `C++` `Python` `C` `Java` `JavaScript` `HTML5` `CSS3`
 
+ <img align="right" width="350" src="https://skillicons.dev/icons?i=dotnet,flask,bootstrap,mysql,azure,aws,gcp" />
+ 
 **Web & Frameworks:**  
 `ASP.NET MVC` `Bootstrap` `Flask` `Razor` `Jinja2`
+
+<img align="right" width="350" src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,jupyter,nginx,postman" />
 
 **Database & APIs:**  
 `MySQL` `SQL Server` `REST APIs` `Postman`
 
+  <img align="right" width="350" src="https://skillicons.dev/icons?i=cpp,python,java,c,js,html,css" />
+  
 **Cloud & DevOps:**  
 `Microsoft Azure` `Google Cloud Platform` `AWS` `GitHub Actions`
+
+<img align="right"  width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 **Tools:**  
 `Git` `GitHub` `VS Code` `Visual Studio` `Jupyter` `Wireshark` `Nginx`
@@ -135,7 +133,11 @@ Built threat detection ML models & a secure chatbot with steganography & fast re
 
 
 <img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="Coding" />
-
+<p align="left">
+  <a href="https://github.com/OWASP-BLT/BLT/pull/4743">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OWASP-BLT&repo=BLT&theme=react&border_radius=10" />
+  </a>
+</p>
 
 ![](https://github-contributor-stats.vercel.app/api?username=Sanghmitra12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -323,4 +325,9 @@ Built threat detection ML models & a secure chatbot with steganography & fast re
 <!--- 🌐 Portfolio: [sanghmitra12.github.io/portfolio-website](https://sanghmitra12.github.io/portfolio-website)-->
 
 <!--✨ _Building secure, modern apps that solve real-world problems. Let’s connect and collaborate!_
+
+
+<!--<img align="right"  width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" /><br></br>-->
+<!--<img align="right" width="400" src="https://camo.githubusercontent.com/c87ad6a19c7544e9b15b362bb5db638da7bb26f1d4442ed5bdf7c9e01640b751/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3036663231613136313932313931392e363363643738383764306137302e676966" alt="Coding" /> <br></br>
+<br></br>-->
 
