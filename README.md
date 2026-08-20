@@ -114,7 +114,7 @@ Built threat detection ML models & a secure chatbot with steganography & fast re
 
 ---
 
-### 📈 Current GitHub Stats
+### 📈 Current GitHub Stats 
 
 
 <div align="center">
