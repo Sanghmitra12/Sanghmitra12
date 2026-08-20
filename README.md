@@ -29,7 +29,7 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Hi GIF" />
 
-- 🎓 Pre-final year B.Tech Computer Science student @ **Gautam Buddha University** (Batch 2023–2027)
+- 🎓 Final year B.Tech Computer Science student @ **Gautam Buddha University** (Batch 2023–2027)
 - 💻 Aspiring **Software Engineer**, **Web Developer**, and **Full Stack Developer**
 - 🔐 Passionate about **Cybersecurity**, **Cloud Technologies**, and **Scalable Systems**
 - 🛠️ Building real-world **web applications**, **RESTful APIs**, and **secure chatbots**
